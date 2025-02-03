@@ -1,0 +1,130 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=dobayes.mailnews@mozilla.org#junk)(B9=preview)(BA=storeToken)
+  (BB=gloda-id)(BC=gloda-dirty)(BD=junkscore)(BE=keywords)
+  (BF=columnStates)(C0=sortType)(C1=sortOrder)(C2=viewFlags)(C3=viewType)
+  (C4=sortColumns)(C5=customSortCol)(C6=imageSize)(C7=sender_name)
+  (C8=ns:msg:db:row:scope:ops:all)(C9=ns:msg:db:table:kind:ops)
+  (CA=account)(CB=notAPhishMessage)(CC=op)(CD=msgKey)(CE=opFlags)
+  (CF=newFlags)(D0=moveDest)(D1=msgSize)(D2=inPlayback)
+  (D3=useServerRetention)(D4=retainBy)(D5=daysToKeepHdrs)
+  (D6=numHdrsToKeep)(D7=daysToKeepBodies)(D8=useServerDefaults)
+  (D9=cleanupBodies)(DA=applyToFlaggedMessages)(DB=remoteContentPolicy)
+  (DC=replyTo)(DD=junkscoreorigin)(80=ns:msg:db:row:scope:msgs:all)
+  (81=subject)(82=sender)(83=message-id)(84=references)(85=recipients)
+  (86=date)(87=size)(88=flags)(89=priority)(8A=label)(8B=numLines)
+  (8C=ccList)(8D=bccList)(8E=msgThreadId)(8F=threadId)(90=threadFlags)
+  (91=threadNewestMsgDate)(92=children)(93=unreadChildren)
+  (94=threadSubject)(95=msgCharSet)(96=ns:msg:db:table:kind:msgs)
+  (97=ns:msg:db:table:kind:thread)(98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=onlineName)(AF=highestModSeq)
+  (B0=imapFlags)(B1=highestRecordedUID)
+  (B2=ns:msg:db:row:scope:pending:all)(B3=ns:msg:db:table:kind:pending)
+  (B4=dateReceived)(B5=ProtoThreadFlags)(B6=MRUTime)(B7=folderName)>
+<(158=20)(81=0)>[4:m(^9B=20)(^8F=20)(^91=0)(^90=0)(^92=0)]
+<(15F=21)>[5:m(^9B=21)(^8F=21)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(173=22)(153=679b3aac)(80=1)>[6:m(^9B=22)(^8F=22)(^91^153)(^90=0)(^92=1)]
+
+<(162=91)(14E=Sean McKenna <seanm@lucid.co>)(10D
+    =Jackson Baxter <jackson@jacksonbaxter.xyz>)(150
+    =Application for Data Engineering / ML Engineering Roles at Lucid)
+  (151=CAJ7-Uqz+1e5YkoS6nm+A1xVNKj9QFdWckqr4bsC8DW72z7srCA@mail.gmail.com)
+  (152=<7aa9acd9-59a3-4ff2-b477-4526bf9e563e@jacksonbaxter.xyz>)(154=3c48)
+  (156=imapflag)(157=nonjunk)(114=ffffffff)(159
+    =1|Sean McKenna <seanm@lucid.co>)(174=540827)(163=3c7b)(164=123)
+  (169=ae)>
+{22:^80 {(k^97:c)(s=9)6:m } [22(^88=91)(^82^14E)(^85^10D)(^81^150)(^83^151)
+    (^84^152)(^B4^153)(^86^153)(^89=1)(^87^154)(^BD=0)(^DD^156)(^BE^157)
+    (^9A^114)(^8E=22)(^B5=0)(^C7^159)(^BA^174)(^9D^163)(^8B=123)(^BB=ae)]}
+{1:^80 {(k^96:c)(s=9)} 22 }
+[20:^80]
+[21:^80]
+{FFFFFFFD:^99 {(k^98:c)(s=9)} 
+  [22(^94^150)]}
+[20:^99(^94^150)]
+<(15B
+    =Information Technology Student: University of Pittsburgh and University o\
+f North Georgia hired roles near you)>
+[21:^99(^94^15B)]
+
+<(82=INBOX)(83=8083014)(84=e000)(85=66eb2c49)(16E=1738332612)(95=12)
+  (96=$121)(170=83fb6)>
+{1:^9E {(k^9F:c)(s=9)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^83)(^A6^82)(^AF=0)(^B0^84)(^A7^85)
+    (^B1=22)(^A0=1)(^A1=0)(^A5=22)(^B6^16E)(^C0=12)(^C1=1)(^C2=1)(^C3=0)
+    (^C4^96)(^A3^170)(^D3=1)]}
+
+@$${42{@
+<(175=93)>[-22:^80(^88=93)(^82^14E)(^85^10D)(^81^150)(^83^151)(^84^152)
+    (^B4^153)(^86^153)(^89=1)(^87^154)(^BD=0)(^DD^156)(^BE^157)(^9A^114)
+    (^8E=22)(^B5=0)(^C7^159)(^BA^174)(^9D^163)(^8B=123)(^BB=ae)(^BC=1)]
+@$$}42}@
+
+@$${43{@
+[22:^80(^BC=0)]
+@$$}43}@
+
+@$${44{@
+[-6:m(^9B=22)(^8F=22)(^91=0)(^90=0)(^92=0)]
+{-22:^80 {(k^97:c)(s=9)6:m } }
+{-1:^80 {(k^96:c)(s=9)} }[-22:^80]
+{-FFFFFFFD:^99 {(k^98:c)(s=9)} }
+<(177=87c31)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^83)(^A6^82)(^AF=0)
+    (^B0^84)(^A7^85)(^B1=22)(^A0=0)(^A1=0)(^A5=22)(^B6^16E)(^C0=12)
+    (^C1=1)(^C2=1)(^C3=0)(^C4^96)(^A3^177)(^D3=1)]
+@$$}44}@
+
+@$${45{@
+@$$}45}@
+
+@$${46{@
+@$$}46}@
+
+@$${47{@
+@$$}47}@
+
+@$${48{@
+@$$}48}@
+
+@$${4A{@
+<(178=1738432991)>[1:^9E(^B6^178)]
+@$$}4A}@
+
+@$${4B{@
+@$$}4B}@
+
+@$${4C{@
+{-1:^C8 {(k^C9:c)(s=9)} }
+@$$}4C}@
+
+@$${4E{@
+<(179=1738518857)>[1:^9E(^B6^179)]
+@$$}4E}@
+
+@$${50{@
+<(17A=1738525568)>[1:^9E(^B6^17A)]
+@$$}50}@
+
+@$${51{@
+@$$}51}@
+
+@$${53{@
+<(17B=1738530611)>[1:^9E(^B6^17B)]
+@$$}53}@
+
+@$${54{@
+@$$}54}@
+
+@$${56{@
+<(17C=1738553702)>[1:^9E(^B6^17C)]
+@$$}56}@
+
+@$${57{@
+@$$}57}@

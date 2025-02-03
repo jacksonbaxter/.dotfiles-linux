@@ -1,0 +1,951 @@
+From - Thu Jan 23 01:29:16 2025
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <bounce+e6de83.eb6b8a-jackson=jacksonbaxter.xyz@us.greenhouse-mail.io>
+X-Original-To: jackson@jacksonbaxter.xyz
+Delivered-To: jackson@jacksonbaxter.xyz
+Authentication-Results: mail.jacksonbaxter.xyz;
+	dkim=pass (1024-bit key; unprotected) header.d=us.greenhouse-mail.io header.i=@us.greenhouse-mail.io header.a=rsa-sha256 header.s=mailgun header.b=YyGAUu1P;
+	dkim-atps=neutral
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-13) on debian
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.1 required=5.0 tests=DKIM_SIGNED,DKIM_VALID,
+	DKIM_VALID_AU,HTML_MESSAGE,NO_RECEIVED,NO_RELAYS,URIBL_BLOCKED
+	autolearn=ham autolearn_force=no version=4.0.0
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=us.greenhouse-mail.io; q=dns/txt; s=mailgun; t=1737489861; x=1737497061;
+ h=Message-Id: List-Unsubscribe: To: To: From: From: Subject: Subject: Content-Type: Mime-Version: Date: Sender: Sender;
+ bh=ghUne47YMJ2Iq74nww5VkgUMjdgN5ENyA2MLqleNJvo=;
+ b=YyGAUu1P9HO6vBXhYL5/4PswN3O4+hUfVRnhiLJOgD5cM+/9rX5DfmYPjSdRGjctWja3bh7nt2l93USA75Q0T3sbgAUezq59MaaMBK+vcqr4XgqPAwYTHCJT9XTH5PCY1wTl6ZeR2XWJYp++Ktoyy/YntVeok5/ut0bF10GEg6o=
+X-Mailgun-Sending-Ip: 69.72.47.205
+X-Mailgun-Sending-Ip-Pool-Name: 
+X-Mailgun-Sending-Ip-Pool: 
+X-Mailgun-Sid: WyJjMDg4MCIsImphY2tzb25AamFja3NvbmJheHRlci54eXoiLCJlYjZiOGEiXQ==
+Sender: no-reply@us.greenhouse-mail.io
+Date: Tue, 21 Jan 2025 20:04:21 +0000
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="17c5b7e245568510049a6e88b2d35d07bf326be05dfca9af6f9c17464e8a"
+Subject: Thank you for applying to Lucid Software
+From: no-reply@us.greenhouse-mail.io
+To: jackson@jacksonbaxter.xyz
+X-Mailgun-Tag: CandidateAutoReply
+List-Unsubscribe: 
+X-Mailgun-Variables: {"org_id": "4000574004", "person_id": "106297524004", "silo_id": "4"}
+Message-Id: <20250121200421.49641e3e623e89e1@us.greenhouse-mail.io>
+
+--17c5b7e245568510049a6e88b2d35d07bf326be05dfca9af6f9c17464e8a
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ascii
+
+Jackson,
+
+Thanks for applying to Lucid Software. We appreciate you taking the time to send in your application. We have received it and will review it shortly.
+
+If your application seems like a good fit for the position, we will contact you soon.
+
+Regards,
+Lucid Talent Acquisition Team
+
+** Please note: Do not reply to this email. This email is sent from an unattended mailbox. Replies will not be read.
+--17c5b7e245568510049a6e88b2d35d07bf326be05dfca9af6f9c17464e8a
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset=ascii
+
+<p>Jackson,</p>
+<p>Thanks for applying to Lucid Software. We appreciate you taking the time to send in your application. We have received it and will review it shortly.</p>
+<p>If your application seems like a good fit for the position, we will contact you soon.</p>
+<p>Regards,<br />Lucid Talent Acquisition Team</p>
+<p>** Please note: Do not reply to this email. This email is sent from an unattended mailbox. Replies will not be read.</p>
+--17c5b7e245568510049a6e88b2d35d07bf326be05dfca9af6f9c17464e8a--
+
+From - Thu Jan 23 01:29:16 2025
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <010001948ae17e9b-f5ff7302-51bb-434a-b2a6-3fbeac00ce69-000000@mail-from.jobvite.com>
+X-Original-To: jackson@jacksonbaxter.xyz
+Delivered-To: jackson@jacksonbaxter.xyz
+Authentication-Results: mail.jacksonbaxter.xyz;
+	dkim=pass (1024-bit key; unprotected) header.d=jobvite.com header.i=@jobvite.com header.a=rsa-sha256 header.s=5svtwkygu74sdqg7txj3gkb4vsu2rswf header.b=eW9ey0+h;
+	dkim=pass (1024-bit key; unprotected) header.d=amazonses.com header.i=@amazonses.com header.a=rsa-sha256 header.s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug header.b=QC1PTWOA;
+	dkim-atps=neutral
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-13) on debian
+X-Spam-Level: 
+X-Spam-Status: No, score=0.7 required=5.0 tests=DKIM_SIGNED,DKIM_VALID,
+	DKIM_VALID_AU,HTML_MESSAGE,MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,
+	MPART_ALT_DIFF,NO_RECEIVED,NO_RELAYS,NUMERIC_HTTP_ADDR,URIBL_BLOCKED
+	autolearn=no autolearn_force=no version=4.0.0
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=5svtwkygu74sdqg7txj3gkb4vsu2rswf; d=jobvite.com; t=1737496821;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=+7dThrdTuO15hdC/iripNGuGH9G01wmK7sgj9qB70rc=;
+	b=eW9ey0+hIeCZUjiESnkChNUrkE/Uj63tWzuEfAQsD0yUQg7i/Lm/VFAFf2z4BCfA
+	fDZIASRlY4Ogsqo2XbW7IyWLbWJW07xOnw6sbSh3H9o/vYtjxOTIN9hUcTwrSGwl0UY
+	aObBYOowxtv4jWSbowGRuyfzaR1ix3zv9PiZr8kA=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug; d=amazonses.com; t=1737496821;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Feedback-ID;
+	bh=+7dThrdTuO15hdC/iripNGuGH9G01wmK7sgj9qB70rc=;
+	b=QC1PTWOAMfcKB4bVPTL31t5UPaHl4/fVduNW9VBA5Ml1KibOL8Zf2Qh+UfHCAZCo
+	WjPZAcDsS1gZSmyYWlAFEE2K9c+9AkmW7xL20T0jvxSrX4FQF1wonKmHuAgHvg4thUM
+	mpLZlTL2j6VicKZmqLotSxhtrgQEQVhBJ/AwmrVw=
+Date: Tue, 21 Jan 2025 22:00:21 +0000
+From: Credit One Bank Recruiting Team <notification@jobvite.com>
+Reply-To: Credit One Bank Recruiting Team <j2z7iojsl@jobvite.com>
+To: Jackson Baxter <jackson@jacksonbaxter.xyz>
+Message-ID: <010001948ae17e9b-f5ff7302-51bb-434a-b2a6-3fbeac00ce69-000000@email.amazonses.com>
+Subject: Your application for Enterprise Risk Strategy - Risk Operations
+ Analyst II at Credit One Bank
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_18018_1212672113.1737496817175"
+X-JV-MAIL-ID: 20250121qk1bVfwb780058aa01134247a9efc0b923f8d355
+Feedback-ID: ::1.us-east-1.1WxhOW01lh+v8N6NW7cBp1Mv0W2bAx3dlxedXqPLh3k=:AmazonSES
+X-SES-Outgoing: 2025.01.21-54.240.14.168
+
+------=_Part_18018_1212672113.1737496817175
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang=3D"en" xml:lang=3D=
+"en" xmlns=3D"http://www.w3.org/1999/xhtml" style=3D"background:#f3f3f3!imp=
+ortant"><head><link href=3D"../../../../../../../assets/styles/foundation-e=
+mails/app.css" rel=3D"stylesheet" type=3D"text/css"><meta content=3D"text/h=
+tml; charset=3Dutf-8" http-equiv=3D"Content-Type"><meta content=3D"width=3D=
+device-width" name=3D"viewport"><style>@media only screen{html{min-height:1=
+00%;background:#f3f3f3}}@media only screen and (max-width:980px){.small-flo=
+at-center{margin:0 auto!important;float:none!important;text-align:center!im=
+portant}.small-text-center{text-align:center!important}.small-text-left{tex=
+t-align:left!important}.small-text-right{text-align:right!important}}@media=
+ only screen and (max-width:980px){.hide-for-large{display:block!important;=
+width:auto!important;overflow:visible!important;max-height:none!important;f=
+ont-size:inherit!important;line-height:inherit!important}}@media only scree=
+n and (max-width:980px){table.body table.container .hide-for-large,table.bo=
+dy table.container .row.hide-for-large{display:table!important;width:100%!i=
+mportant}}@media only screen and (max-width:980px){table.body table.contain=
+er .callout-inner.hide-for-large{display:table-cell!important;width:100%!im=
+portant}}@media only screen and (max-width:980px){table.body table.containe=
+r .show-for-large{display:none!important;width:0;mso-hide:all;overflow:hidd=
+en}}@media only screen and (max-width:980px){table.body img{width:auto;heig=
+ht:auto}table.body center{min-width:0!important}table.body .container{width=
+:95%!important}table.body .column,table.body .columns{height:auto!important=
+;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border=
+-box;padding-left:20px;padding-right:20px}table.body .column .column,table.=
+body .column .columns,table.body .columns .column,table.body .columns .colu=
+mns{padding-left:0;padding-right:0}table.body .collapse .column,table.body =
+.collapse .columns{padding-left:0!important;padding-right:0!important}table=
+.body table.columns td.expander,table.body table.columns th.expander{displa=
+y:none!important}table.body .right-text-pad,table.body .text-pad-right{padd=
+ing-left:10px!important}table.body .left-text-pad,table.body .text-pad-left=
+{padding-right:10px!important}table.menu{width:100%!important}table.menu td=
+,table.menu th{width:auto!important;display:inline-block!important}table.me=
+nu.small-vertical td,table.menu.small-vertical th,table.menu.vertical td,ta=
+ble.menu.vertical th{display:block!important}table.menu[align=3Dcenter]{wid=
+th:auto!important}table.button.small-expand,table.button.small-expanded{wid=
+th:100%!important}table.button.small-expand table,table.button.small-expand=
+ed table{width:100%}table.button.small-expand table a,table.button.small-ex=
+panded table a{text-align:center!important;width:100%!important;padding-lef=
+t:0!important;padding-right:0!important}table.button.small-expand center,ta=
+ble.button.small-expanded center{min-width:0}}@media only screen and (max-w=
+idth:980px){.jv-logo-col{margin-top:25px!important}}@media only screen and =
+(max-width:480px){body,p,table.body,td,th{font-size:12px!important;line-hei=
+ght:1.3}table.button td a{font-size:12px!important;padding:15px 10px 15px 1=
+0px!important}table.body .section-description{margin-left:0!important;Margi=
+n-left:0!important}table.body .section-description .firstColumn{width:100% =
+important}table.body .section-description .gridColumn{padding:0 0 6px 0!imp=
+ortant;margin:0 0 6px 0!important;Margin:0 0 6px 0!important;width:100% imp=
+ortant}.hr-dotted{display:block!important;border-top:1px dotted #999}.paddi=
+ng-left-22{margin-left:10px!important;Margin-left:10px!important}.section-h=
+eading{color:#e86b0a;font-weight:700;margin-top:15px!important;Margin-top:1=
+5px!important;margin-bottom:15px!important;Margin-bottom:15px!important;pad=
+ding-top:0!important;padding-bottom:0!important}.jv-logo-col{margin-top:25p=
+x!important}table.body .container{width:95%!important}.hr-margin{margin-lef=
+t:0!important}td.small-1,th.small-1{display:inline-block!important;width:8.=
+33333%!important}td.small-2,th.small-2{display:inline-block!important;width=
+:16.66667%!important}td.small-3,th.small-3{display:inline-block!important;w=
+idth:25%!important}td.small-4,th.small-4{display:inline-block!important;wid=
+th:33.33333%!important}td.small-5,th.small-5{display:inline-block!important=
+;width:41.66667%!important}td.small-6,th.small-6{display:inline-block!impor=
+tant;width:50%!important}td.small-7,th.small-7{display:inline-block!importa=
+nt;width:58.33333%!important}td.small-8,th.small-8{display:inline-block!imp=
+ortant;width:66.66667%!important}td.small-9,th.small-9{display:inline-block=
+!important;width:75%!important}td.small-10,th.small-10{display:inline-block=
+!important;width:83.33333%!important}td.small-11,th.small-11{display:inline=
+-block!important;width:91.66667%!important}td.small-12,th.small-12{display:=
+inline-block!important;width:100%!important}.column td.small-12,.column th.=
+small-12,.columns td.small-12,.columns th.small-12{display:block!important;=
+width:100%!important}table.body td.small-offset-1,table.body th.small-offse=
+t-1{margin-left:8.33333%!important;Margin-left:8.33333%!important}table.bod=
+y td.small-offset-2,table.body th.small-offset-2{margin-left:16.66667%!impo=
+rtant;Margin-left:16.66667%!important}table.body td.small-offset-3,table.bo=
+dy th.small-offset-3{margin-left:25%!important;Margin-left:25%!important}ta=
+ble.body td.small-offset-4,table.body th.small-offset-4{margin-left:33.3333=
+3%!important;Margin-left:33.33333%!important}table.body td.small-offset-5,t=
+able.body th.small-offset-5{margin-left:41.66667%!important;Margin-left:41.=
+66667%!important}table.body td.small-offset-6,table.body th.small-offset-6{=
+margin-left:50%!important;Margin-left:50%!important}table.body td.small-off=
+set-7,table.body th.small-offset-7{margin-left:58.33333%!important;Margin-l=
+eft:58.33333%!important}table.body td.small-offset-8,table.body th.small-of=
+fset-8{margin-left:66.66667%!important;Margin-left:66.66667%!important}tabl=
+e.body td.small-offset-9,table.body th.small-offset-9{margin-left:75%!impor=
+tant;Margin-left:75%!important}table.body td.small-offset-10,table.body th.=
+small-offset-10{margin-left:83.33333%!important;Margin-left:83.33333%!impor=
+tant}table.body td.small-offset-11,table.body th.small-offset-11{margin-lef=
+t:91.66667%!important;Margin-left:91.66667%!important}}</style></head><body=
+ bgcolor=3D"#f3f3f3" style=3D"-moz-box-sizing:border-box;-ms-text-size-adju=
+st:100%;-webkit-box-sizing:border-box;-webkit-text-size-adjust:100%;Margin:=
+0;background:#f3f3f3!important;background-color:#f3f3f3;box-sizing:border-b=
+ox;color:#666;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-we=
+ight:400;line-height:1.3;margin:0;min-width:100%;padding:0;text-align:left;=
+width:100%!important"><table class=3D"body" style=3D"Margin:0;background:#f=
+3f3f3!important;border-collapse:collapse;border-spacing:0;color:#666;font-f=
+amily:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;height:100%=
+;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;widt=
+h:100%"><tr style=3D"padding:0;text-align:left;vertical-align:top"><td clas=
+s=3D"center" align=3D"center" valign=3D"top" bgcolor=3D"#f3f3f3" style=3D"-=
+moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;background-color:#f3f3f3;bor=
+der-collapse:collapse!important;color:#666;font-family:Helvetica,Arial,sans=
+-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:1.3;margin:0=
+;padding:0;text-align:left;vertical-align:top;word-wrap:break-word"><table =
+align=3D"center" class=3D"container jv-container" style=3D"Margin:0 auto;Ma=
+rgin-top:25px!important;background:#fefefe;background-color:#f3f3f3;border-=
+collapse:collapse;border-spacing:0;margin:0 auto;margin-top:25px!important;=
+max-width:960px!important;padding:0;text-align:inherit;vertical-align:top;w=
+idth:95%"><tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"=
+><td style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collap=
+se:collapse!important;color:#666;font-family:Helvetica,Arial,sans-serif;fon=
+t-size:14px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0=
+;text-align:left;vertical-align:top;word-wrap:break-word"><table class=3D"r=
+ow jv-table-bg" style=3D"background-color:#fff;border:1px solid #cbcbcb;bor=
+der-collapse:collapse;border-spacing:0;display:table;padding:0;position:rel=
+ative;text-align:left;vertical-align:top;width:100%"><tbody><tr style=3D"pa=
+dding:0;text-align:left;vertical-align:top"><th class=3D"small-12 large-12 =
+columns first last" style=3D"Margin:0 auto;color:#666;font-family:Helvetica=
+,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0 a=
+uto;padding:0;padding-bottom:20px;padding-left:20px;padding-right:20px;text=
+-align:left;width:940px"><table style=3D"border-collapse:collapse;border-sp=
+acing:0;padding:0;text-align:left;vertical-align:top;width:100%"><tbody><tr=
+ style=3D"padding:0;text-align:left;vertical-align:top"><th style=3D"Margin=
+:0;color:#666;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-we=
+ight:400;line-height:1.3;margin:0;padding:0;text-align:left"><table height=
+=3D"100" class=3D"row jv-header" style=3D"border-collapse:collapse;border-s=
+pacing:0;display:table;height:100px;padding:0;position:relative;text-align:=
+left;vertical-align:top;width:100%"><tbody><tr style=3D"padding:0;text-alig=
+n:left;vertical-align:top"><th class=3D"jv-logo-col small-12 large-12 colum=
+ns first last" height=3D"100" valign=3D"middle" style=3D"Margin:0 auto;colo=
+r:#666;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:40=
+0;line-height:1.3;margin:0 auto;margin-bottom:0!important;padding:0;padding=
+-bottom:0!important;padding-left:0!important;padding-right:20px;text-align:=
+left;width:100%"><table style=3D"border-collapse:collapse;border-spacing:0;=
+padding:0;text-align:left;vertical-align:top;width:100%"><tbody><tr style=
+=3D"padding:0;text-align:left;vertical-align:top"><th style=3D"Margin:0;col=
+or:#666;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:4=
+00;line-height:1.3;margin:0;padding:0;text-align:left"><img class=3D"jv-log=
+o" style=3D"-ms-interpolation-mode:bicubic;clear:both;display:block;max-hei=
+ght:50px;max-width:100%;outline:0;text-decoration:none;width:auto" alt=3D"C=
+redit One Bank" height=3D"50" src=3D"https://d3igejkwe1ucjd.cloudfront.net/=
+company/qk1bVfwb/assets/email/images/file/C1BlogoforEmail_1683158308259.jpg=
+"></th><th class=3D"expander" style=3D"Margin:0;color:#666;font-family:Helv=
+etica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margi=
+n:0;padding:0!important;text-align:left;visibility:hidden;width:0"></th></t=
+r></tbody></table></th></tr></tbody></table>  Dear Jackson,<br /><br />Than=
+k you for your interest in a career at Credit One Bank. We have received yo=
+ur application for Enterprise Risk Strategy - Risk Operations Analyst II.<b=
+r /><br />What happens now? We will review your application and will contac=
+t you if there is a good match.<br /><br />In the meantime, to view the sta=
+tus of your application, please go to the following link:<br /><a href=3D"h=
+ttps://app.jobvite.com/u?E3C6EA73BC873ECBE15C999943DA7D08_64E474D1A6FC9ADA3=
+E0B9D8DC2C675A2022DE955CE96CD6F61499994B4C8F598">Application Status</a><br =
+/><br />Sincerely,<br /><br />The Credit One Bank Recruiting Team</th></tr>=
+</tbody></table></th></tr></tbody></table><table class=3D"row center jv-foo=
+ter-container" style=3D"Margin-top:10px!important;background-color:#f3f3f3;=
+border-collapse:collapse;border-spacing:0;display:table;margin-top:10px!imp=
+ortant;padding:0;position:relative;text-align:left;vertical-align:top;width=
+:100%"><tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><t=
+h class=3D"small-12 large-12 columns first last" style=3D"Margin:0 auto;col=
+or:#666;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:4=
+00;line-height:1.3;margin:0 auto;padding:0;padding-bottom:20px;padding-left=
+:20px;padding-right:20px;text-align:left;width:940px"><table style=3D"borde=
+r-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-ali=
+gn:top;width:100%"><tbody><tr style=3D"padding:0;text-align:left;vertical-a=
+lign:top"><th style=3D"Margin:0;color:#666;font-family:Helvetica,Arial,sans=
+-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;padding:0;te=
+xt-align:left"><span class=3D"jv-footer-identifier" style=3D"display:none">=
+-*_____</span>  <table class=3D"row" style=3D"border-collapse:collapse;bord=
+er-spacing:0;display:table;padding:0;position:relative;text-align:left;vert=
+ical-align:top;width:100%"><tbody><tr style=3D"padding:0;text-align:left;ve=
+rtical-align:top"><p style=3D"Margin:0;Margin-bottom:10px;color:#666;font-f=
+amily:Helvetica,Arial,sans-serif;font-size:12.6px;font-weight:400;line-heig=
+ht:1.3;margin:0;margin-bottom:10px;padding:0;text-align:left">You can reply=
+ directly to this message or click <a href=3D"https://app.jobvite.com/u?21F=
+F3F75C36348FBB55F41BE8AF99785_1EF25C6ED78FB2E0EE57EE4A1D1551F431AC77744C79A=
+F3972011E3D440BF459" style=3D"color:#666666"><b>here</b></a> to reply via y=
+our Jobvite user account.</p></tr></tbody></table><table class=3D"row" styl=
+e=3D"border-collapse:collapse;border-spacing:0;display:table;padding:0;posi=
+tion:relative;text-align:left;vertical-align:top;width:100%"><tbody><tr sty=
+le=3D"padding:0;text-align:left;vertical-align:top"><p style=3D"Margin:0;Ma=
+rgin-bottom:10px;color:#666;font-family:Helvetica,Arial,sans-serif;font-siz=
+e:12.6px;font-weight:400;line-height:1.3;margin:0;margin-bottom:10px;paddin=
+g:0;text-align:left"> <a href=3D"https://app.jobvite.com/l?ks2ALGlwT" style=
+=3D"color:#666666"><b>Email Preferences</b></a> |      <a href=3D"https://w=
+ww.jobvite.com/" style=3D"color:#666666"><b>Powered by Jobvite</b></a> </p>=
+</tr></tbody></table><span class=3D"jv-footer-identifier" style=3D"display:=
+none">*______*</span></th></tr></tbody></table></th></tr></tbody></table></=
+td></tr></tbody></table></td></tr></table><!-- prevent Gmail on iOS font si=
+ze manipulation --><div style=3D"display:none;white-space:nowrap;font:15px =
+courier;line-height:0"></div></body></html>
+------=_Part_18018_1212672113.1737496817175--
+
+From - Thu Jan 23 01:29:16 2025
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <ti_myhiring_no-reply@recruiting.ti.com>
+X-Original-To: jackson@jacksonbaxter.xyz
+Delivered-To: jackson@jacksonbaxter.xyz
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-13) on debian
+X-Spam-Level: 
+X-Spam-Status: No, score=0.7 required=5.0 tests=HTML_MESSAGE,
+	HTML_MIME_NO_HTML_TAG,MIME_HTML_ONLY,NO_RECEIVED,NO_RELAYS,
+	URIBL_BLOCKED autolearn=no autolearn_force=no version=4.0.0
+Date: Tue, 21 Jan 2025 22:36:14 +0000 (UTC)
+From: Texas Instruments Recruiting <ti_myhiring_no-reply@recruiting.ti.com>
+To: jackson@jacksonbaxter.xyz
+Message-id: <8b0256c8ac1c48741a4a4c66ed1df2fe.ums@oracle.com>
+Subject: Your recent job application for Data Scientist - Digital Experience -
+ 240006TV
+MIME-version: 1.0
+Content-type: text/html; charset=utf-8
+Content-transfer-encoding: 7bit
+X-Priority: 3
+X-EmailDriver-Message-ID: 8b0258c4ac1c487c3ac7dac66d249140
+
+<div>
+ Hello, Joshua,&nbsp;
+</div>
+<div>
+ <br/>
+</div>
+<div>
+ We received your job application for Data Scientist - Digital Experience - 240006TV.&nbsp; We are currently reviewing applications and will be in touch if your skills and experiences align with our requirements.
+</div>
+<div>
+ <br/>
+</div>
+<div>
+ Click this URL to manage your profile and check your application status.&nbsp;
+</div>
+<div>
+ https://edbz.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/s/tG81szP37K
+</div>
+<div>
+ <br/>
+</div>
+<div>
+ Sincerely,
+</div>
+<div>
+ Texas Instruments
+</div>
+<div>
+ Recruiting Team
+</div>
+
+From - Fri Jan 24 23:29:30 2025
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <bounce+e6de83.eb6b8a-jackson=jacksonbaxter.xyz@us.greenhouse-mail.io>
+X-Original-To: jackson@jacksonbaxter.xyz
+Delivered-To: jackson@jacksonbaxter.xyz
+Authentication-Results: mail.jacksonbaxter.xyz;
+	dkim=pass (1024-bit key; unprotected) header.d=us.greenhouse-mail.io header.i=@us.greenhouse-mail.io header.a=rsa-sha256 header.s=mailgun header.b=a0++VqhF;
+	dkim-atps=neutral
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-13) on debian
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.1 required=5.0 tests=DKIM_SIGNED,DKIM_VALID,
+	DKIM_VALID_AU,HTML_MESSAGE,NO_RECEIVED,NO_RELAYS,URIBL_BLOCKED
+	autolearn=ham autolearn_force=no version=4.0.0
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=us.greenhouse-mail.io; q=dns/txt; s=mailgun; t=1737651610; x=1737658810;
+ h=Message-Id: List-Unsubscribe: To: To: From: From: Subject: Subject: Content-Type: Mime-Version: Date: Sender: Sender;
+ bh=jOX/do8B775oLdRBgmTWxmF6n2LlPQ4eOaT9Tq7mh8U=;
+ b=a0++VqhFI7BsTCz9p4h1SyNJSgMYPZ6UzXF0CiI1oJ28hyOJd0Zz+hX3pPTyrFqr0L0csy88uXUSMONWzwGerdYnBw0AWj1W/ccjt95g4rcp/+dm6WuMrcWlYVxQYpy0rh+eDk+V2iABB2jUI1S7DcYf+Hh2IzothbJO9m/D2gg=
+X-Mailgun-Sending-Ip: 69.72.47.205
+X-Mailgun-Sending-Ip-Pool-Name: 
+X-Mailgun-Sending-Ip-Pool: 
+X-Mailgun-Sid: WyJjMDg4MCIsImphY2tzb25AamFja3NvbmJheHRlci54eXoiLCJlYjZiOGEiXQ==
+Sender: no-reply@us.greenhouse-mail.io
+Date: Thu, 23 Jan 2025 17:00:08 +0000
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="06b87f68afca159b2712e17c69334fdc3735c2801e58be4c4481dbf852ac"
+Subject: Update about your application to Lucid Software
+From: no-reply@us.greenhouse-mail.io
+To: jackson@jacksonbaxter.xyz
+X-Mailgun-Tag: ScheduledCandidateEmail
+List-Unsubscribe: 
+X-Mailgun-Variables: {"org_id": "4000574004", "person_id": "106297524004", "silo_id": "4"}
+Message-Id: <20250123170008.7567bc4110db43f6@us.greenhouse-mail.io>
+
+--06b87f68afca159b2712e17c69334fdc3735c2801e58be4c4481dbf852ac
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=ascii
+
+Hi Jackson,
+
+Thank you for applying for our Data Analyst  role here at Lucid Software. We have received a great number of applications from many qualified applicants. Although we appreciate your interest in Lucid, at this time you have not been selected to move forward in the hiring process. We have selected candidates whose experience and qualifications are more aligned with our needs at this time.
+
+We appreciate the effort you put into applying, and we encourage you to check our job postings regularly. Should there be a position that is of interest to you, we hope you reapply.
+
+We wish you the best in your future employment search.
+
+Best regards,
+The Lucid Software Recruiting Team
+--06b87f68afca159b2712e17c69334fdc3735c2801e58be4c4481dbf852ac
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset=ascii
+
+<div>Hi Jackson,</div>
+<div>&nbsp;</div>
+<div>Thank you for applying for our Data Analyst  role here at Lucid Software. We have received a great number of applications from many qualified applicants. Although we appreciate your interest in Lucid, at this time you have not been selected to move forward in the hiring process. We have selected candidates whose experience and qualifications are more aligned with our needs at this time.&nbsp;</div>
+<div>&nbsp;</div>
+<div>We appreciate the effort you put into applying, and we encourage you to check our job postings regularly. Should there be a position that is of interest to you, we hope you reapply.</div>
+<div>&nbsp;</div>
+<div>We wish you the best in your future employment search.</div>
+<div>&nbsp;</div>
+<div>Best regards,</div>
+<div>The Lucid Software Recruiting Team&nbsp;</div>
+--06b87f68afca159b2712e17c69334fdc3735c2801e58be4c4481dbf852ac--
+
+From - Thu Jan 30 05:30:08 2025
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <01000194b4c386f1-4dfa24be-737d-4675-bae2-10f98a0928bd-000000@mail-from.jobvite.com>
+X-Original-To: jackson@jacksonbaxter.xyz
+Delivered-To: jackson@jacksonbaxter.xyz
+Authentication-Results: mail.jacksonbaxter.xyz;
+	dkim=pass (1024-bit key; unprotected) header.d=jobvite.com header.i=@jobvite.com header.a=rsa-sha256 header.s=5svtwkygu74sdqg7txj3gkb4vsu2rswf header.b=cT4vNNiM;
+	dkim=pass (1024-bit key; unprotected) header.d=amazonses.com header.i=@amazonses.com header.a=rsa-sha256 header.s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug header.b=YAAphUKG;
+	dkim-atps=neutral
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-13) on debian
+X-Spam-Level: 
+X-Spam-Status: No, score=0.7 required=5.0 tests=DKIM_SIGNED,DKIM_VALID,
+	DKIM_VALID_AU,HTML_MESSAGE,MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,
+	MPART_ALT_DIFF,NO_RECEIVED,NO_RELAYS,NUMERIC_HTTP_ADDR,URIBL_BLOCKED
+	autolearn=no autolearn_force=no version=4.0.0
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=5svtwkygu74sdqg7txj3gkb4vsu2rswf; d=jobvite.com; t=1738199500;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=ba0zn0IYfrBy9iacbVCcnPSNuc79mPvo4gSiIhsSnFw=;
+	b=cT4vNNiMy8lDcyo6/N2MEIKaX37hn95G8iMzU47nzTqcRpoADM9k0qQfDi5yDNL0
+	A7+TdUGbR/fWCH6nEZHIkIUXwKiFuYUniQR7xxp616MWJLxxb+agbFN0VieKgeCYI8K
+	no3/xCmyQNyPUAV34MLqlEnHwq4Dr4mPhNAbBnng=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug; d=amazonses.com; t=1738199500;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Feedback-ID;
+	bh=ba0zn0IYfrBy9iacbVCcnPSNuc79mPvo4gSiIhsSnFw=;
+	b=YAAphUKGSSOe0sNnQujRvWFuiNPGfzX+mardCV0h8t9X8PVeUFqa0Zxx7pzV+eUI
+	mCC5qIFMPsH6KlwbqP7ZcDWGcIVZmvPZDU7hV+3Qx+QiraGF5UWiddQjjOWZWdeyRze
+	g4iRcNx7GKYKoF+3mi8TjmUdR8RdCkTHOgDK7U5Q=
+Date: Thu, 30 Jan 2025 01:11:40 +0000
+From: Credit One Bank Recruiting Team <no-reply@jobvite.com>
+Reply-To: "no-reply@jobvite.com" <no-reply@jobvite.com>
+To: Jackson Baxter <jackson@jacksonbaxter.xyz>
+Message-ID: <01000194b4c386f1-4dfa24be-737d-4675-bae2-10f98a0928bd-000000@email.amazonses.com>
+Subject: Your application for Enterprise Risk Strategy - Risk Operations
+ Analyst II at Credit One Bank
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_141112_1131330266.1738199496301"
+X-JV-MAIL-ID: 20250130qk1bVfwb727f134f480f4bdab49d489b4d6ec483
+Feedback-ID: ::1.us-east-1.1WxhOW01lh+v8N6NW7cBp1Mv0W2bAx3dlxedXqPLh3k=:AmazonSES
+X-SES-Outgoing: 2025.01.30-54.240.14.168
+
+------=_Part_141112_1131330266.1738199496301
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang=3D"en" xml:lang=3D=
+"en" xmlns=3D"http://www.w3.org/1999/xhtml" style=3D"background:#f3f3f3!imp=
+ortant"><head><link href=3D"../../../../../../../assets/styles/foundation-e=
+mails/app.css" rel=3D"stylesheet" type=3D"text/css"><meta content=3D"text/h=
+tml; charset=3Dutf-8" http-equiv=3D"Content-Type"><meta content=3D"width=3D=
+device-width" name=3D"viewport"><style>@media only screen{html{min-height:1=
+00%;background:#f3f3f3}}@media only screen and (max-width:596px){.small-flo=
+at-center{margin:0 auto!important;float:none!important;text-align:center!im=
+portant}.small-text-center{text-align:center!important}.small-text-left{tex=
+t-align:left!important}.small-text-right{text-align:right!important}}@media=
+ only screen and (max-width:596px){.hide-for-large{display:block!important;=
+width:auto!important;overflow:visible!important;max-height:none!important;f=
+ont-size:inherit!important;line-height:inherit!important}}@media only scree=
+n and (max-width:596px){table.body table.container .hide-for-large,table.bo=
+dy table.container .row.hide-for-large{display:table!important;width:100%!i=
+mportant}}@media only screen and (max-width:596px){table.body table.contain=
+er .callout-inner.hide-for-large{display:table-cell!important;width:100%!im=
+portant}}@media only screen and (max-width:596px){table.body table.containe=
+r .show-for-large{display:none!important;width:0;mso-hide:all;overflow:hidd=
+en}}@media only screen and (max-width:596px){table.body img{width:auto;heig=
+ht:auto}table.body center{min-width:0!important}table.body .container{width=
+:95%!important}table.body .column,table.body .columns{height:auto!important=
+;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border=
+-box;padding-left:16px;padding-right:16px}table.body .column .column,table.=
+body .column .columns,table.body .columns .column,table.body .columns .colu=
+mns{padding-left:0;padding-right:0}table.body .collapse .column,table.body =
+.collapse .columns{padding-left:0!important;padding-right:0!important}table=
+.body table.columns td.expander,table.body table.columns th.expander{displa=
+y:none!important}table.body .right-text-pad,table.body .text-pad-right{padd=
+ing-left:10px!important}table.body .left-text-pad,table.body .text-pad-left=
+{padding-right:10px!important}table.menu{width:100%!important}table.menu td=
+,table.menu th{width:auto!important;display:inline-block!important}table.me=
+nu.small-vertical td,table.menu.small-vertical th,table.menu.vertical td,ta=
+ble.menu.vertical th{display:block!important}table.menu[align=3Dcenter]{wid=
+th:auto!important}table.button.small-expand,table.button.small-expanded{wid=
+th:100%!important}table.button.small-expand table,table.button.small-expand=
+ed table{width:100%}table.button.small-expand table a,table.button.small-ex=
+panded table a{text-align:center!important;width:100%!important;padding-lef=
+t:0!important;padding-right:0!important}table.button.small-expand center,ta=
+ble.button.small-expanded center{min-width:0}}@media only screen and (max-w=
+idth:980px){.jv-logo-col{margin-top:25px!important}}@media only screen and =
+(max-width:480px){body,p,table.body,td,th{font-size:12px!important;line-hei=
+ght:1.3}table.button td a{font-size:12px!important;padding:15px 10px 15px 1=
+0px!important}table.body .section-description{margin-left:0!important;Margi=
+n-left:0!important}table.body .section-description .firstColumn{width:100% =
+important}table.body .section-description .gridColumn{padding:0 0 6px 0!imp=
+ortant;margin:0 0 6px 0!important;Margin:0 0 6px 0!important;width:100% imp=
+ortant}.hr-dotted{display:block!important;border-top:1px dotted #999}.paddi=
+ng-left-22{margin-left:10px!important;Margin-left:10px!important}.section-h=
+eading{color:#e86b0a;font-weight:700;margin-top:15px!important;Margin-top:1=
+5px!important;margin-bottom:15px!important;Margin-bottom:15px!important;pad=
+ding-top:0!important;padding-bottom:0!important}.jv-logo-col{margin-top:25p=
+x!important}table.body .container{width:95%!important}.hr-margin{margin-lef=
+t:0!important}td.small-1,th.small-1{display:inline-block!important;width:-z=
+f-grid-calc-pct(1,12)!important}td.small-2,th.small-2{display:inline-block!=
+important;width:-zf-grid-calc-pct(2,12)!important}td.small-3,th.small-3{dis=
+play:inline-block!important;width:-zf-grid-calc-pct(3,12)!important}td.smal=
+l-4,th.small-4{display:inline-block!important;width:-zf-grid-calc-pct(4,12)=
+!important}td.small-5,th.small-5{display:inline-block!important;width:-zf-g=
+rid-calc-pct(5,12)!important}td.small-6,th.small-6{display:inline-block!imp=
+ortant;width:-zf-grid-calc-pct(6,12)!important}td.small-7,th.small-7{displa=
+y:inline-block!important;width:-zf-grid-calc-pct(7,12)!important}td.small-8=
+,th.small-8{display:inline-block!important;width:-zf-grid-calc-pct(8,12)!im=
+portant}td.small-9,th.small-9{display:inline-block!important;width:-zf-grid=
+-calc-pct(9,12)!important}td.small-10,th.small-10{display:inline-block!impo=
+rtant;width:-zf-grid-calc-pct(10,12)!important}td.small-11,th.small-11{disp=
+lay:inline-block!important;width:-zf-grid-calc-pct(11,12)!important}td.smal=
+l-12,th.small-12{display:inline-block!important;width:-zf-grid-calc-pct(12,=
+12)!important}.column td.small-12,.column th.small-12,.columns td.small-12,=
+.columns th.small-12{display:block!important;width:100%!important}table.bod=
+y td.small-offset-1,table.body th.small-offset-1{margin-left:-zf-grid-calc-=
+pct(1,12)!important;Margin-left:-zf-grid-calc-pct(1,12)!important}table.bod=
+y td.small-offset-2,table.body th.small-offset-2{margin-left:-zf-grid-calc-=
+pct(2,12)!important;Margin-left:-zf-grid-calc-pct(2,12)!important}table.bod=
+y td.small-offset-3,table.body th.small-offset-3{margin-left:-zf-grid-calc-=
+pct(3,12)!important;Margin-left:-zf-grid-calc-pct(3,12)!important}table.bod=
+y td.small-offset-4,table.body th.small-offset-4{margin-left:-zf-grid-calc-=
+pct(4,12)!important;Margin-left:-zf-grid-calc-pct(4,12)!important}table.bod=
+y td.small-offset-5,table.body th.small-offset-5{margin-left:-zf-grid-calc-=
+pct(5,12)!important;Margin-left:-zf-grid-calc-pct(5,12)!important}table.bod=
+y td.small-offset-6,table.body th.small-offset-6{margin-left:-zf-grid-calc-=
+pct(6,12)!important;Margin-left:-zf-grid-calc-pct(6,12)!important}table.bod=
+y td.small-offset-7,table.body th.small-offset-7{margin-left:-zf-grid-calc-=
+pct(7,12)!important;Margin-left:-zf-grid-calc-pct(7,12)!important}table.bod=
+y td.small-offset-8,table.body th.small-offset-8{margin-left:-zf-grid-calc-=
+pct(8,12)!important;Margin-left:-zf-grid-calc-pct(8,12)!important}table.bod=
+y td.small-offset-9,table.body th.small-offset-9{margin-left:-zf-grid-calc-=
+pct(9,12)!important;Margin-left:-zf-grid-calc-pct(9,12)!important}table.bod=
+y td.small-offset-10,table.body th.small-offset-10{margin-left:-zf-grid-cal=
+c-pct(10,12)!important;Margin-left:-zf-grid-calc-pct(10,12)!important}table=
+.body td.small-offset-11,table.body th.small-offset-11{margin-left:-zf-grid=
+-calc-pct(11,12)!important;Margin-left:-zf-grid-calc-pct(11,12)!important}}=
+</style></head><body bgcolor=3D"#f3f3f3" style=3D"-moz-box-sizing:border-bo=
+x;-ms-text-size-adjust:100%;-webkit-box-sizing:border-box;-webkit-text-size=
+-adjust:100%;Margin:0;background:#f3f3f3!important;background-color:#f3f3f3=
+;box-sizing:border-box;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif=
+;font-size:16px;font-weight:400;line-height:1.3;margin:0;min-width:100%;pad=
+ding:0;text-align:left;width:100%!important"><table class=3D"body" style=3D=
+"Margin:0;background:#f3f3f3!important;border-collapse:collapse;border-spac=
+ing:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;f=
+ont-weight:400;height:100%;line-height:1.3;margin:0;padding:0;text-align:le=
+ft;vertical-align:top;width:100%"><tr style=3D"padding:0;text-align:left;ve=
+rtical-align:top"><td class=3D"center" align=3D"center" valign=3D"top" bgco=
+lor=3D"#f3f3f3" style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;ba=
+ckground-color:#f3f3f3;border-collapse:collapse!important;color:#0a0a0a;fon=
+t-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:=
+auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;=
+word-wrap:break-word"><table align=3D"center" class=3D"container jv-contain=
+er" style=3D"Margin:0 auto;Margin-top:25px!important;background:#fefefe;bac=
+kground-color:#f3f3f3;border-collapse:collapse;border-spacing:0;margin:0 au=
+to;margin-top:25px!important;max-width:960px!important;padding:0;text-align=
+:inherit;vertical-align:top;width:95%"><tbody><tr style=3D"padding:0;text-a=
+lign:left;vertical-align:top"><td style=3D"-moz-hyphens:auto;-webkit-hyphen=
+s:auto;Margin:0;border-collapse:collapse!important;color:#0a0a0a;font-famil=
+y:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;li=
+ne-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wr=
+ap:break-word"><table class=3D"row jv-table-bg" style=3D"background-color:#=
+fff;border:1px solid #cbcbcb;border-collapse:collapse;border-spacing:0;disp=
+lay:table;padding:0;position:relative;text-align:left;vertical-align:top;wi=
+dth:100%"><tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"=
+><th class=3D"small-12 large-12 columns first last" style=3D"Margin:0 auto;=
+color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-we=
+ight:400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:16px;paddin=
+g-left:16px;padding-right:16px;text-align:left;width:-zf-grid-calc-px(12,12=
+,580px)"><table style=3D"border-collapse:collapse;border-spacing:0;padding:=
+0;text-align:left;vertical-align:top;width:100%"><tbody><tr style=3D"paddin=
+g:0;text-align:left;vertical-align:top"><th style=3D"Margin:0;color:#0a0a0a=
+;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line=
+-height:1.3;margin:0;padding:0;text-align:left"><table height=3D"100" class=
+=3D"row jv-header" style=3D"border-collapse:collapse;border-spacing:0;displ=
+ay:table;height:100px;padding:0;position:relative;text-align:left;vertical-=
+align:top;width:100%"><tbody><tr style=3D"padding:0;text-align:left;vertica=
+l-align:top"><th class=3D"jv-logo-col small-12 large-12 columns first last"=
+ height=3D"100" valign=3D"middle" style=3D"Margin:0 auto;color:#0a0a0a;font=
+-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-heig=
+ht:1.3;margin:0 auto;margin-bottom:0!important;padding:0;padding-bottom:0!i=
+mportant;padding-left:0!important;padding-right:16px;text-align:left;width:=
+-zf-grid-calc-pct(12,12)"><table style=3D"border-collapse:collapse;border-s=
+pacing:0;padding:0;text-align:left;vertical-align:top;width:100%"><tbody><t=
+r style=3D"padding:0;text-align:left;vertical-align:top"><th style=3D"Margi=
+n:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;fon=
+t-weight:400;line-height:1.3;margin:0;padding:0;text-align:left"><img class=
+=3D"jv-logo" style=3D"-ms-interpolation-mode:bicubic;clear:both;display:blo=
+ck;max-height:50px;max-width:100%;outline:0;text-decoration:none;width:auto=
+" alt=3D"Credit One Bank" height=3D"50" src=3D"https://d3igejkwe1ucjd.cloud=
+front.net/company/qk1bVfwb/assets/email/images/file/C1BlogoforEmail_1683158=
+308259.jpg"></th><th class=3D"expander" style=3D"Margin:0;color:#0a0a0a;fon=
+t-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-hei=
+ght:1.3;margin:0;padding:0!important;text-align:left;visibility:hidden;widt=
+h:0"></th></tr></tbody></table></th></tr></tbody></table>  <p>Dear Jackson,=
+<br /><br />We appreciate your interest in Credit One Bank and the time you=
+ invested in being considered for the Enterprise Risk Strategy - Risk Opera=
+tions Analyst II opening. It was a pleasure to learn more about your skills=
+ and accomplishments. Our team unfortunately did not select you for further=
+ consideration.<br /><br />We welcome you to review our career site for add=
+itional roles that may interest you. If you applied for other roles with us=
+, stay tuned for more information as you may still be in consideration for =
+other positions.<br /><br />Thank you again for considering Credit One Bank=
+. We wish you the best in all of your endeavors.<br /><br />Sincerely,<br /=
+><br />The Credit One Bank Recruiting Team</p></th></tr></tbody></table></t=
+h></tr></tbody></table><table class=3D"row center jv-footer-container" styl=
+e=3D"Margin-top:10px!important;background-color:#f3f3f3;border-collapse:col=
+lapse;border-spacing:0;display:table;margin-top:10px!important;padding:0;po=
+sition:relative;text-align:left;vertical-align:top;width:100%"><tbody><tr s=
+tyle=3D"padding:0;text-align:left;vertical-align:top"><th class=3D"small-12=
+ large-12 columns first last" style=3D"Margin:0 auto;color:#0a0a0a;font-fam=
+ily:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1=
+.3;margin:0 auto;padding:0;padding-bottom:16px;padding-left:16px;padding-ri=
+ght:16px;text-align:left;width:-zf-grid-calc-px(12,12,580px)"><table style=
+=3D"border-collapse:collapse;border-spacing:0;padding:0;text-align:left;ver=
+tical-align:top;width:100%"><tbody><tr style=3D"padding:0;text-align:left;v=
+ertical-align:top"><th style=3D"Margin:0;color:#0a0a0a;font-family:Helvetic=
+a,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0;=
+padding:0;text-align:left"><span class=3D"jv-footer-identifier" style=3D"di=
+splay:none">-*_____</span>  <table class=3D"row" style=3D"border-collapse:c=
+ollapse;border-spacing:0;display:table;padding:0;position:relative;text-ali=
+gn:left;vertical-align:top;width:100%"><tbody><tr style=3D"padding:0;text-a=
+lign:left;vertical-align:top"><p style=3D"Margin:0;Margin-bottom:10px;color=
+:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:12.6px;font-weigh=
+t:400;line-height:1.3;margin:0;margin-bottom:10px;padding:0;text-align:left=
+"> <a href=3D"https://app.jobvite.com/l?ks2ALGlwT" style=3D"color:#666666">=
+<b>Email Preferences</b></a> |      <a href=3D"https://www.jobvite.com/" st=
+yle=3D"color:#666666"><b>Powered by Jobvite</b></a> </p></tr></tbody></tabl=
+e><span class=3D"jv-footer-identifier" style=3D"display:none">*______*</spa=
+n></th></tr></tbody></table></th></tr></tbody></table></td></tr></tbody></t=
+able></td></tr></table><!-- prevent Gmail on iOS font size manipulation -->=
+<div style=3D"display:none;white-space:nowrap;font:15px courier;line-height=
+:0"></div></body></html>
+------=_Part_141112_1131330266.1738199496301--
+
+From - Mon Feb 03 03:37:59 2025
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <seanm@lucidchart.com>
+X-Original-To: jackson@jacksonbaxter.xyz
+Delivered-To: jackson@jacksonbaxter.xyz
+Authentication-Results: mail.jacksonbaxter.xyz;
+	dkim=pass (1024-bit key; unprotected) header.d=lucid.co header.i=@lucid.co header.a=rsa-sha256 header.s=google header.b=bDJqE1w1;
+	dkim-atps=neutral
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-13) on debian
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.1 required=5.0 tests=DKIM_SIGNED,DKIM_VALID,
+	DKIM_VALID_AU,HTML_MESSAGE,NO_RECEIVED,NO_RELAYS,
+	T_KAM_HTML_FONT_INVALID,T_PDS_OTHER_BAD_TLD,T_REMOTE_IMAGE,
+	URIBL_BLOCKED autolearn=ham autolearn_force=no version=4.0.0
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=lucid.co; s=google; t=1738226360; x=1738831160; darn=jacksonbaxter.xyz;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=UA+6LinbRls1AJopkqTdunCoyh1MozYmP/XqIlZ0AkE=;
+        b=bDJqE1w10/I6MXCkc7I/9x9TV2IlYp+mUBZOD2v+B7pJVduTmwUlF8qrm9wLC59V3C
+         GTvQmZWMdxVX9sRvpO4DPdWMbmfGBxo2d7Sm+HP/dFenRLP3XTNLmgtZjpldAWbFl7J+
+         i7KARTbpp+4XELbA+1rfz8OJ2y4XzI4MpHYSo=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1738226360; x=1738831160;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=UA+6LinbRls1AJopkqTdunCoyh1MozYmP/XqIlZ0AkE=;
+        b=WTBvoAk/WVMV0r0vPq8ik72HqDrQl+u6VAB2q2MmdYMzyX7a3nV6gzw8n4pobppjvX
+         mAy+2YCGO+AZTIzkdvQTt2yVzp3RIC2975+pcHAGUVx9Vg7/Ad3m9aIfxgmskZDtMSnE
+         TkvZxo8cSItSh5BksdA52+uz61cdhk+XnqRFgd9Xoc1d4vDbgnaQAGNl+u41dHxtBnmE
+         MVMCBH57KaXVsYnJTF216g5ntLv4U9u9pIgzaQ4F7+M6Oc/en67VVukYnlY2MA7fySHZ
+         QaOCWdDiplwI3rUg+RRkr12CNnHmJ8Fu4ohqQ+GQ1zweShoshLOZH67hm6LHXUso+8ld
+         T1yQ==
+X-Gm-Message-State: AOJu0Yy5yWSl4fMEsHlJTiH/jq3gcgKxBHIdnsCE2pn1kxoAjjaf1bYE
+	1lm5ZqDQWkB0sbidwXnIkXqHUcknzEuB5znlZS15fS4Dlaeczg9pLgJ+za0RimwwXmv4YaLZWza
+	ql1Ano5YWxdVPB05pJmK2FKzmPDTT0WqZut2Nst1JGoFnrUk4YRnf6StueW74gloyfcWbSC+a2m
+	cSnH9QonW8t1kVbKhehTOGgDTblDKSRnV+NgDgtf0W9YyqDlikn/i/G52a9Y6l5mhHRTS+ghXMQ
+	ioI/MrtzYUG5VOAVUt8cLAGy3aGIidudjy61/ur1cPANuCigY2b8E/Ve6wSQM64tUTzkiK8rpcg
+X-Gm-Gg: ASbGncuGBzR9OWhjIwCj6V6QEJA1h+R/B4+RzugzH7OpiO+INzQKSjDPghjpa2iwyLn
+	lLpdil5Vq9yhD77etJNqPTIuIfyig8RXmXxJAvek1jnpwq3LVmtD5ajvRivmmJzQexgaJ/gY=
+X-Google-Smtp-Source: AGHT+IEPpVop1DItvRzcdS3Q5CcLO76GF8rvDv9iEPQhDmX6BiWKWfI9Ta6E0/qcuhz0BBGvjhIWkUzDrR1hWSUUfzU=
+X-Received: by 2002:a05:600c:1d1e:b0:434:a90b:94fe with SMTP id
+ 5b1f17b1804b1-438dc3c2608mr59977255e9.10.1738226359606; Thu, 30 Jan 2025
+ 00:39:19 -0800 (PST)
+MIME-Version: 1.0
+References: <7aa9acd9-59a3-4ff2-b477-4526bf9e563e@jacksonbaxter.xyz>
+In-Reply-To: <7aa9acd9-59a3-4ff2-b477-4526bf9e563e@jacksonbaxter.xyz>
+From: Sean McKenna <seanm@lucid.co>
+Date: Thu, 30 Jan 2025 01:39:08 -0700
+X-Gm-Features: AWEUYZl0a8LFFteczCcd3QA9-cFS9VTQ6GO_txz9pwSDdqDVEqbo3UNrT7cNr4Y
+Message-ID: <CAJ7-Uqz+1e5YkoS6nm+A1xVNKj9QFdWckqr4bsC8DW72z7srCA@mail.gmail.com>
+Subject: Re: Application for Data Engineering / ML Engineering Roles at Lucid
+To: Jackson Baxter <jackson@jacksonbaxter.xyz>
+Content-Type: multipart/alternative; boundary="000000000000b43d2c062ce85ce9"
+X-CLOUD-SEC-AV-Sent: true
+X-CLOUD-SEC-AV-Info: lucidsoftware2,google_mail,monitor
+X-Gm-Spam: 0
+X-Gm-Phishy: 0
+
+--000000000000b43d2c062ce85ce9
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello Jackson!
+
+A pleasure to virtually meet you -- that's great you've already connected
+with so many current/former Lucidites. If you have any questions about
+Lucid, happy to answer as well.
+
+Dean is a great person who might know if we have any openings that could
+fit your talents -- the only software engineering jobs I see open are at
+the senior level (which have a higher bar/expectations/experience/etc), and
+I am not certain if they have machine learning specific roles.
+
+We do have an open data analyst role; these are usually more in service to
+the business & needs (so less designing, more managing data flows, writing
+up reports, maintaining dashboards, etc.). Probably better described in our
+job postings. :) There are some teams that do manage infrastructure in
+support of these teams too (usually software engineers).
+
+*Which of these jobs are you most interested in?* (analyst vs senior eng vs
+software eng or something else) I'd be happy to send along a referral with
+the good word I've received so far; just have to submit for a single role.
+
+If you are curious about machine learning specific roles or analyst-infra
+supporting roles, I can reach out to some folks I know internally to see if
+we have any openings on those teams. We do hire most software engineers as
+generalists, not usually for specific teams, but it never hurts to ask if
+that affects your interest! Let me know.
+
+On Tue, Jan 28, 2025 at 11:53=E2=80=AFAM Jackson Baxter <jackson@jacksonbax=
+ter.xyz>
+wrote:
+
+> Hello Sean,
+>
+> I hope you=E2=80=99re doing well! My name is Jackson Baxter, and I was re=
+cently
+> advised by Cory McArthur to contact you directly regarding potential Data
+> Engineering or Machine Learning Engineering positions at Lucid. I=E2=80=
+=99ve talked
+> with Blake Modersitzki, Dean LeBaron, and Cory, all of whom have
+> recommended Lucid to me as a fantastic place to work, and they=E2=80=99ve=
+ recently
+> sent notes of recommendation on my behalf as well. Feel free to check out
+> their LinkedIn profiles here: =E2=80=A2 Blake Modersitzki:
+> linkedin.com/in/blakemodersitzki
+> <https://www.linkedin.com/in/blakemodersitzki/> =E2=80=A2 Dean LeBaron:
+> linkedin.com/in/dlebaron <https://www.linkedin.com/in/dlebaron/> =E2=80=
+=A2 Cory
+> McArthur: linkedin.com/in/corysmc <https://www.linkedin.com/in/corysmc/>
+>
+> I=E2=80=99m about to graduate from Brigham Young University with a degree=
+ in Data
+> Science, where I=E2=80=99ve focused on Data Engineering and Machine Learn=
+ing
+> Engineering. I'm also interested in Data Analytics and Data Science. I=E2=
+=80=99m
+> eager to apply my skills in a role that continues to challenge me and hel=
+ps
+> me grow.
+>
+> I=E2=80=99ve attached my r=C3=A9sum=C3=A9 for your review. Additionally, =
+here are links to
+> my portfolio and LinkedIn profile: =E2=80=A2 Portfolio: jacksonbaxter.xyz=
+ =E2=80=A2
+> LinkedIn: linkedin.com/in/jackson-baxter
+> <http://www.linkedin.com/in/jackson-baxter>
+>
+> Should you need any more information, or if there=E2=80=99s anything else=
+ I can do
+> to support my application, please let me know. I appreciate your time and
+> look forward to the possibility of working with Lucid.
+>
+> Thank you,
+>
+> Jackson Baxter
+>
+> Phone: +1 801-989-0985
+>
+> Email: jackson@jacksonbaxter.xyz
+>
+> Portfolio: jacksonbaxter.xyz
+>
+>
+
+--=20
+
+Peace,
+
+Sean McKenna *(they/them)*
+Senior Staff Engineer
+seanm@lucid.co
+
+
+<https://www.golucid.co/>
+
+www.Lucid.co <https://lucid.co>
+
+--000000000000b43d2c062ce85ce9
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello Jackson!<div><br></div><div>A pleasure to virtually =
+meet you -- that&#39;s great you&#39;ve already connected with so many curr=
+ent/former Lucidites. If you have any questions about Lucid, happy to answe=
+r as well.</div><div><br></div><div>Dean is a great person who might know i=
+f we have any openings that could fit your talents -- the only software eng=
+ineering jobs I see open are at the senior level (which have a higher bar/e=
+xpectations/experience/etc), and I am not certain if they have machine lear=
+ning specific roles.</div><div><br></div><div>We do have an open data analy=
+st role; these are usually more in service to the business &amp; needs (so =
+less designing, more managing data flows, writing up reports, maintaining d=
+ashboards, etc.). Probably better described in our job postings. :) There a=
+re some teams that do manage infrastructure in support of these teams too (=
+usually software engineers).</div><div><br></div><div><b>Which of these job=
+s are you most interested in?</b>=C2=A0(analyst vs senior eng vs software e=
+ng or something else) I&#39;d be happy to send along a referral with the go=
+od word I&#39;ve received so far; just have to submit for a single role.</d=
+iv><div><br></div><div>If you are curious about machine learning specific r=
+oles or analyst-infra supporting roles, I can reach out to some folks I kno=
+w internally to see if we have any openings on those teams. We do hire most=
+ software engineers as generalists, not usually for specific teams, but it =
+never hurts to ask if that affects your interest! Let me know.=C2=A0</div><=
+/div><br><div class=3D"gmail_quote gmail_quote_container"><div dir=3D"ltr" =
+class=3D"gmail_attr">On Tue, Jan 28, 2025 at 11:53=E2=80=AFAM Jackson Baxte=
+r &lt;<a href=3D"mailto:jackson@jacksonbaxter.xyz">jackson@jacksonbaxter.xy=
+z</a>&gt; wrote:<br></div><blockquote class=3D"gmail_quote" style=3D"margin=
+:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1ex"=
+><u></u>
+
+ =20
+
+   =20
+ =20
+  <div>
+    <p><span>Hello Sean,</span></p>
+    <p><span>I hope you=E2=80=99re doing well! My name is Jackson Baxter, a=
+nd I
+        was recently advised by Cory McArthur to contact you directly
+        regarding potential Data Engineering or Machine Learning
+        Engineering positions at Lucid. I=E2=80=99ve talked with Blake
+        Modersitzki, Dean LeBaron, and Cory, all of whom have
+        recommended Lucid to me as a fantastic place to work, and
+        they=E2=80=99ve recently sent notes of recommendation on my behalf =
+as
+        well. Feel free to check out their LinkedIn profiles here: =E2=80=
+=A2
+        Blake Modersitzki:=C2=A0<a href=3D"https://www.linkedin.com/in/blak=
+emodersitzki/" target=3D"_blank">linkedin.com/in/blakemodersitzki</a>
+        =E2=80=A2 Dean LeBaron:=C2=A0<a href=3D"https://www.linkedin.com/in=
+/dlebaron/" target=3D"_blank">linkedin.com/in/dlebaron</a>
+        =E2=80=A2 Cory McArthur: <a href=3D"https://www.linkedin.com/in/cor=
+ysmc/" target=3D"_blank">linkedin.com/in/corysmc</a><br>
+      </span></p>
+    <p><span>I=E2=80=99m about to graduate from Brigham Young University wi=
+th a
+        degree in Data Science, where I=E2=80=99ve focused on Data Engineer=
+ing
+        and Machine Learning Engineering. I&#39;m also interested in Data
+        Analytics and Data Science. I=E2=80=99m eager to apply my skills in=
+ a
+        role that continues to challenge me and helps me grow.</span></p>
+    <p><span>I=E2=80=99ve attached my r=C3=A9sum=C3=A9 for your review. Add=
+itionally, here
+        are links to my portfolio and LinkedIn profile:
+        =E2=80=A2 Portfolio:=C2=A0<a href=3D"https://jacksonbaxter.xyz/" ta=
+rget=3D"_blank">jacksonbaxter.xyz</a>
+        =E2=80=A2 LinkedIn: <a href=3D"http://www.linkedin.com/in/jackson-b=
+axter" target=3D"_blank">linkedin.com/in/jackson-baxter</a><br>
+      </span></p>
+    <p><span>Should you need any more information, or if there=E2=80=99s
+        anything else I can do to support my application, please let me
+        know. I appreciate your time and look forward to the possibility
+        of working with Lucid.</span></p>
+    <p><span>Thank you,</span></p>
+    <p><span>Jackson Baxter</span></p>
+    <p><span>Phone: +1 801-989-0985</span></p>
+    <p><span>Email: <a href=3D"http://jackson@jacksonbaxter.xyz" target=3D"=
+_blank">jackson@jacksonbaxter.xyz</a><br>
+      </span></p>
+    <p><span>Portfolio: </span><span><a href=3D"https://jacksonbaxter.xyz/"=
+ target=3D"_blank">jacksonbaxter.xyz</a></span></p>
+    <p></p>
+  </div>
+
+</blockquote></div><div><br clear=3D"all"></div><div><br></div><span class=
+=3D"gmail_signature_prefix">-- </span><br><div dir=3D"ltr" class=3D"gmail_s=
+ignature"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"lt=
+r"><div dir=3D"ltr"><div dir=3D"ltr"><div><br></div><div>Peace,</div><div><=
+span><p dir=3D"ltr" style=3D"line-height:1.5;margin-top:0pt;margin-bottom:0=
+pt"><span style=3D"font-size:10pt;font-family:Roboto,sans-serif;color:rgb(4=
+0,44,51);background-color:transparent;font-weight:700;font-style:normal;fon=
+t-variant:normal;text-decoration:none;vertical-align:baseline;white-space:p=
+re-wrap">Sean McKenna </span><span style=3D"font-size:10pt;font-family:Robo=
+to,sans-serif;color:rgb(40,44,51);background-color:transparent;font-variant=
+:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap">=
+<i>(they/them)</i></span><span style=3D"font-size:10pt;font-family:Roboto,s=
+ans-serif;color:rgb(40,44,51);background-color:transparent;font-weight:700;=
+font-style:normal;font-variant:normal;text-decoration:none;vertical-align:b=
+aseline;white-space:pre-wrap"><br></span><span style=3D"font-size:9pt;font-=
+family:Roboto,sans-serif;color:rgb(40,44,51);background-color:transparent;f=
+ont-weight:700;font-style:normal;font-variant:normal;text-decoration:none;v=
+ertical-align:baseline;white-space:pre-wrap"><span style=3D"font-weight:400=
+;background-color:transparent;font-size:9pt;vertical-align:baseline">Senior=
+ Staff Engineer</span><span style=3D"background-color:transparent;font-size=
+:9pt;vertical-align:baseline"><br></span></span><span style=3D"font-size:9p=
+t;font-family:Roboto,sans-serif;color:rgb(40,44,51);background-color:transp=
+arent;font-weight:400;font-style:normal;font-variant:normal;text-decoration=
+:none;vertical-align:baseline;white-space:pre-wrap"><a href=3D"mailto:seanm=
+@lucid.co" target=3D"_blank">seanm@lucid.co</a></span></p><p dir=3D"ltr" st=
+yle=3D"line-height:1.5;margin-top:0pt;margin-bottom:0pt"><b style=3D"font-w=
+eight:normal"><b style=3D"font-weight:normal"><br></b></b></p><p dir=3D"ltr=
+" style=3D"line-height:1.5;margin-top:0pt;margin-bottom:0pt"><a href=3D"htt=
+ps://www.golucid.co/" style=3D"text-decoration:none" target=3D"_blank"><spa=
+n style=3D"font-size:9pt;font-family:Roboto,sans-serif;color:rgb(17,85,204)=
+;background-color:transparent;font-weight:400;font-style:normal;font-varian=
+t:normal;text-decoration:underline;vertical-align:baseline;white-space:pre-=
+wrap"><span style=3D"border:none;display:inline-block;overflow:hidden;width=
+:80px;height:36px"><img src=3D"https://lh6.googleusercontent.com/Xy4o0223e8=
+RK2bzs4Gt__cE8erNgKnV3g1CkRFH44ddnFrugUn7PLdwE2YZTTNppJA_jIHaVbxQxRuWwec-87=
+pXDhsIE7s-t5bqAPDHy-1sLZR2H8hXAMj33H5WDCnomjuwCvGo" style=3D"margin-left: 0=
+px; margin-top: 0px;" width=3D"80" height=3D"36"></span></span></a></p><p d=
+ir=3D"ltr" style=3D"line-height:1.5;margin-top:0pt;margin-bottom:0pt"><b st=
+yle=3D"font-weight:normal"></b></p><p dir=3D"ltr" style=3D"line-height:1.5;=
+margin-top:0pt;margin-bottom:0pt"><span style=3D"text-decoration:underline;=
+font-size:9pt;font-family:Roboto,sans-serif;color:rgb(40,44,51);background-=
+color:transparent;font-weight:400;font-style:normal;font-variant:normal;ver=
+tical-align:baseline;white-space:pre-wrap"><a href=3D"https://lucid.co" sty=
+le=3D"text-decoration:none" target=3D"_blank">www.Lucid.co</a></span></p></=
+span></div></div></div></div></div></div></div></div>
+
+--000000000000b43d2c062ce85ce9--
+

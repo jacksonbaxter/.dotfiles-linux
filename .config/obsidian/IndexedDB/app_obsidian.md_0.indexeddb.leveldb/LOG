@@ -1,0 +1,9 @@
+2025/02/02-14:10:10.990 7df Reusing MANIFEST /home/jacksonbaxter/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/02-14:10:10.991 7df Recovering log #43
+2025/02/02-14:10:10.991 7df Reusing old log /home/jacksonbaxter/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000043.log 
+2025/02/02-14:10:11.058 7df Compacting 1@1 + 1@2 files
+2025/02/02-14:10:11.078 7df Generated table #46@1: 10410 keys, 1053349 bytes
+2025/02/02-14:10:11.078 7df Compacted 1@1 + 1@2 files => 1053349 bytes
+2025/02/02-14:10:11.087 7df compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/02-14:10:11.087 7df Delete type=2 #44
+2025/02/02-14:10:11.087 7df Delete type=2 #41

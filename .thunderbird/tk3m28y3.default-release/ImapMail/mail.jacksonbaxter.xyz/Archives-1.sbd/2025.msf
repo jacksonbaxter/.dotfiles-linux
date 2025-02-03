@@ -1,0 +1,147 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=keywords)(B9=ProtoThreadFlags)(BA=folderName)(BB=replyTo)
+  (BC=dobayes.mailnews@mozilla.org#junk)(BD=storeToken)(BE=gloda-id)
+  (BF=gloda-dirty)(C0=columnStates)(C1=sortType)(C2=sortOrder)
+  (C3=viewFlags)(C4=viewType)(C5=MRUTime)(C6=sortColumns)
+  (C7=customSortCol)(C8=imageSize)(C9=sender_name)
+  (CA=ns:msg:db:row:scope:ops:all)(CB=ns:msg:db:table:kind:ops)
+  (CC=notAPhishMessage)(CD=preview)(CE=remoteContentPolicy)(CF=pseudoHdr)
+  (D0=op)(D1=msgKey)(D2=opFlags)(D3=newFlags)(D4=srcFolderURI)
+  (D5=srcMsgKey)(D6=account)(80=ns:msg:db:row:scope:msgs:all)(81=subject)
+  (82=sender)(83=message-id)(84=references)(85=recipients)(86=date)
+  (87=size)(88=flags)(89=priority)(8A=label)(8B=numLines)(8C=ccList)
+  (8D=bccList)(8E=msgThreadId)(8F=threadId)(90=threadFlags)
+  (91=threadNewestMsgDate)(92=children)(93=unreadChildren)
+  (94=threadSubject)(95=msgCharSet)(96=ns:msg:db:table:kind:msgs)
+  (97=ns:msg:db:table:kind:thread)(98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=onlineName)(AF=imapFlags)
+  (B0=useServerRetention)(B1=highestModSeq)(B2=highestRecordedUID)
+  (B3=ns:msg:db:row:scope:pending:all)(B4=ns:msg:db:table:kind:pending)
+  (B5=dateReceived)(B6=junkscore)(B7=junkscoreorigin)>
+<(80=1)(90=fffffffe)(8B=678ffdc5)(81=0)>
+[1:m(^9B=1)(^8F^90)(^91^8B)(^90=0)(^92=1)]
+<(98=2)(96=679018f5)>[2:m(^9B=2)(^8F=2)(^91^96)(^90=0)(^92=1)]
+<(A0=3)(9C=6790215e)>[3:m(^9B=3)(^8F=3)(^91^9C)(^90=0)(^92=1)]
+<(9D=4)(B6=67927598)>[4:m(^9B=4)(^8F=4)(^91^B6)(^90=0)(^92=1)]
+<(CA=ffffff80)>[5:m(^9B^CA)(^8F^CA)(^91=0)(^90=0)(^92=0)]
+
+<(A1=81)(87=no-reply@us.greenhouse-mail.io)(88=jackson@jacksonbaxter.xyz)
+  (89=Thank you for applying to Lucid Software)(8A
+    =20250121200421.49641e3e623e89e1@us.greenhouse-mail.io)(86=)(8C=c09)
+  (8D=imapflag)(8E=nonjunk)(8F=ffffffff)(A2=c3c)(A3=38)(AD
+    =1|no-reply@us.greenhouse-mail.io)(B0=a2)(91
+    =Credit One Bank Recruiting Team <j2z7iojsl@jobvite.com>)(92
+    =Credit One Bank Recruiting Team <notification@jobvite.com>)(93
+    =Jackson Baxter <jackson@jacksonbaxter.xyz>)(94
+    =Your application for Enterprise Risk Strategy - Risk Operations Analyst I\
+I at Credit One Bank)(95
+    =010001948ae17e9b-f5ff7302-51bb-434a-b2a6-3fbeac00ce69-000000@email.amazon\
+ses.com)(97=43c3)(A4=3167)(A5=43f6)(A6=ea)(AE
+    =1|Credit One Bank Recruiting Team <notification@jobvite.com>)(B1=a3)
+  (99
+    =Texas Instruments Recruiting <ti_myhiring_no-reply@recruiting.ti.com>)
+  (9A
+    =Your recent job application for Data Scientist - Digital Experience - 240\
+006TV)(9B=8b0256c8ac1c48741a4a4c66ed1df2fe.ums@oracle.com)(9E=utf-8)
+  (9F=5e4)(A7=20600)(A8=617)(A9=32)(AF
+    =1|Texas Instruments Recruiting <ti_myhiring_no-reply@recruiting.ti.com>)
+  (B2=a4)(B4=Update about your application to Lucid Software)(B5
+    =20250123170008.7567bc4110db43f6@us.greenhouse-mail.io)(B7=ec6)
+  (B8=22194)(B9=ef9)(BA=3d)(BB=a5)>
+{1:^80 {(k^96:c)(s=9)} 
+  [1(^88=81)(^82^87)(^85^88)(^81^89)(^83^8A)(^84=)(^B5^8B)(^86^8B)(^89=1)
+    (^87^8C)(^B6=0)(^B7^8D)(^B8^8E)(^9A^8F)(^8E^90)(^B9=0)(^BD=0)(^9D^A2)
+    (^8B=38)(^C9^AD)(^BE=a2)]
+  [2(^88=81)(^BB^91)(^82^92)(^85^93)(^81^94)(^83^95)(^84=)(^B5^96)(^86^96)
+    (^89=1)(^87^97)(^B6=0)(^B7^8D)(^B8^8E)(^9A^8F)(^8E=2)(^B9=0)(^BD^A4)
+    (^9D^A5)(^8B=ea)(^C9^AE)(^BE=a3)]
+  [3(^88=81)(^82^99)(^85^88)(^81^9A)(^83^9B)(^84=)(^B5^9C)(^86^9C)(^89=4)
+    (^95^9E)(^87^9F)(^B6=0)(^B7^8D)(^B8^8E)(^9A^8F)(^8E=3)(^B9=0)(^BD^A7)
+    (^9D^A8)(^8B=32)(^C9^AF)(^BE=a4)]
+  [4(^88=81)(^82^87)(^85^88)(^81^B4)(^83^B5)(^84=)(^B5^B6)(^86^B6)(^89=1)
+    (^87^B7)(^B6=0)(^B7^8D)(^B8^8E)(^9A^8F)(^8E=4)(^B9=0)(^BD^B8)(^9D^B9)
+    (^8B=3d)(^BE=a5)(^C9^AD)]}
+{2:^80 {(k^97:c)(s=9)2:m } 2 }
+{FFFFFFFE:^80 {(k^97:c)(s=9)1:m } 1 }
+{3:^80 {(k^97:c)(s=9)3:m } 3 }
+{4:^80 {(k^97:c)(s=9)4:m } 4 }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} [FFFFFFFE(^94^89)]
+  [2(^94^94)]
+  [3(^94^9A)]
+  [4(^94^B4)]}
+
+<(82=Archives/2025)(83=e000)(84=8082014)(85=66eb2c4e)(D2=1738553746)
+  (AB=12)(AC=$121)(C7=4428)>
+{1:^9E {(k^9F:c)(s=9)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^AF^83)(^B0=1)(^B1=0)(^A6^82)(^88^84)
+    (^A7^85)(^B2=4)(^A0=4)(^A5^CA)(^C5^D2)(^C1=12)(^C2=1)(^C3=1)(^C4=0)
+    (^C6^AC)(^A8=1)(^A3^C7)]}
+
+<(C1
+    =01000194b4c386f1-4dfa24be-737d-4675-bae2-10f98a0928bd-000000@email.amazon\
+ses.com)(BF="no-reply@jobvite.com" <no-reply@jobvite.com>)(C0
+    =Credit One Bank Recruiting Team <no-reply@jobvite.com>)(C2=679ad1cc)
+  (C5=1|Credit One Bank Recruiting Team <no-reply@jobvite.com>)(C9=ad)
+  (CC=26062)(D0=80)>
+{1:^B3 {(k^B4:c)(s=9)} 
+  [1(^83^C1)(^BB^BF)(^82^C0)(^85^93)(^81^94)(^84=)(^B5^C2)(^86^C2)(^C9^C5)
+    (^CD=)(^BE=ad)(^BF=0)(^CE=1)(^9D^C7)(^BD^CC)(^88=80)(^89=1)]}
+
+@$${10{@
+@$$}10}@
+
+@$${11{@
+@$$}11}@
+
+@$${13{@
+<(D3=1738553755)>[1:^9E(^C5^D3)]
+@$$}13}@
+
+@$${14{@
+@$$}14}@
+
+@$${15{@
+@$$}15}@
+
+@$${16{@
+<(D5=5)>[-6:m(^9B=5)(^8F=5)(^91^C2)(^90=0)(^92=1)]
+<(DE=7)(DB=679b3aac)>[-7:m(^9B=7)(^8F=7)(^91^DB)(^90=0)(^92=1)]
+
+<(D4=43f5)(E1=93)(D6=Sean McKenna <seanm@lucid.co>)(D8
+    =Application for Data Engineering / ML Engineering Roles at Lucid)
+  (D9=CAJ7-Uqz+1e5YkoS6nm+A1xVNKj9QFdWckqr4bsC8DW72z7srCA@mail.gmail.com)
+  (DA=<7aa9acd9-59a3-4ff2-b477-4526bf9e563e@jacksonbaxter.xyz>)(DC=3c48)
+  (E0=43545)(E2=3c7b)(E3=123)>
+{-1:^80 {(k^96:c)(s=9)} 1 2 3 4 
+  [-5(^88=81)(^BB^BF)(^82^C0)(^85^93)(^81^94)(^83^C1)(^84=)(^B5^C2)
+    (^86^C2)(^C9^C5)(^CD=)(^BE=ad)(^BF=0)(^CE=1)(^9D^C7)(^BD^CC)(^89=1)
+    (^87^D4)(^9A^8F)(^8E=5)(^B9=0)(^B8=)]
+  [-7(^88=93)(^82^D6)(^85^93)(^81^D8)(^83^D9)(^84^DA)(^B5^DB)(^86^DB)
+    (^89=1)(^87^DC)(^B6=0)(^B7^8D)(^B8^8E)(^9A^8F)(^8E=7)(^B9=0)(^BD^E0)
+    (^9D^E2)(^8B^E3)]}
+{-5:^80 {(k^97:c)(s=9)6:m } 5 }
+{-7:^80 {(k^97:c)(s=9)7:m } 7 }
+{-FFFFFFFD:^99 {(k^98:c)(s=9)} FFFFFFFE 2 3 4 [-5(^94^94)]
+  [-7(^94^D8)]}
+<(DF=6)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^AF^83)(^B0=1)(^B1=0)
+    (^A6^82)(^88^84)(^A7^85)(^B2=7)(^A0=6)(^A5^CA)(^C5^D3)(^C1=12)(^C2=1)
+    (^C3=1)(^C4=0)(^C6^AC)(^A8=0)(^A3^C7)]
+{-1:^B3 {(k^B4:c)(s=9)} }
+[-1:^B3]
+{-1:^CA {(k^CB:c)(s=9)} }
+@$$}16}@
+
+@$${17{@
+@$$}17}@
+
+@$${18{@
+<(E4=ae)>[7:^80(^BE=ae)]
+@$$}18}@

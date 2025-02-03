@@ -1,0 +1,6 @@
+2025/02/02-12:46:07.446 a07 Reusing MANIFEST /home/jacksonbaxter/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/02-12:46:07.446 a07 Recovering log #38
+2025/02/02-12:46:07.478 a07 Reusing old log /home/jacksonbaxter/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000038.log 
+2025/02/02-12:46:07.614 a07 Level-0 table #44: started
+2025/02/02-12:46:07.654 a07 Level-0 table #44: 1349386 bytes OK
+2025/02/02-12:46:07.674 a07 Delete type=0 #38

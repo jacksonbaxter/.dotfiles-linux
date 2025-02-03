@@ -1,0 +1,73 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=sortOrder)(B9=highestRecordedUID)(BA=replyTo)
+  (BB=ns:msg:db:row:scope:pending:all)(BC=ns:msg:db:table:kind:pending)
+  (BD=dateReceived)(BE=junkscore)(BF=junkscoreorigin)(C0=keywords)
+  (C1=ProtoThreadFlags)(C2=folderName)
+  (C3=dobayes.mailnews@mozilla.org#junk)(C4=ns:msg:db:row:scope:ops:all)
+  (C5=ns:msg:db:table:kind:ops)(C6=columnStates)
+  (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
+  (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
+  (8A=label)(8B=numLines)(8C=ccList)(8D=bccList)(8E=msgThreadId)
+  (8F=threadId)(90=threadFlags)(91=threadNewestMsgDate)(92=children)
+  (93=unreadChildren)(94=threadSubject)(95=msgCharSet)
+  (96=ns:msg:db:table:kind:msgs)(97=ns:msg:db:table:kind:thread)
+  (98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=onlineName)(AF=sortColumns)(B0=viewFlags)
+  (B1=viewType)(B2=sortType)(B3=imapFlags)(B4=useServerRetention)
+  (B5=highestModSeq)(B6=MRUTime)(B7=indexingPriority)>
+<(80=1)(97=fffffffe)(90=678c5461)(81=0)>
+[1:m(^9B=1)(^8F^97)(^91^90)(^90=0)(^92=1)]
+
+<(8B=no-reply@example.com)(8C
+    =MetaMask Fraud Prevention <1pvynkdb@urgent-security.net>)(8D
+    =jackson@jacksonbaxter.xyz)(8E
+    ==?UTF-8?B?SW1wb3J0YW50OiBVbnVzdWFsIExvZ2luIEF0dGVtcHQgb24gWW91ciBXYWxsZXQ\
+h?=)(8F
+    =20250119012449.12483.qmail@cloudhost-5951186.us-midwest-1.nxcli.net)
+  (8A=)(91=UTF-8)(92=fba)(93=100)(94=imapflag)(95=junk)(96=ffffffff)>
+{1:^80 {(k^96:c)(s=9)} 
+  [1(^88=1)(^BA^8B)(^82^8C)(^85^8D)(^81^8E)(^83^8F)(^84=)(^BD^90)(^86^90)
+    (^89=1)(^95^91)(^87^92)(^BE^93)(^BF^94)(^C0^95)(^9A^96)(^8E^97)
+    (^C1=0)]}
+{FFFFFFFE:^80 {(k^97:c)(s=9)1:m } 1 }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} [FFFFFFFE(^94^8E)]}
+
+<(82=Junk)(83=$121)(84=12)(85=e000)(98=1737761360)(87=40082014)(88=-1)
+  (89=66eb2c47)>
+{1:^9E {(k^9F:c)(s=9u)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^AF^83)(^B0=1)(^B1=0)(^B2=12)(^B3^85)
+    (^B4=1)(^B5=0)(^B6^98)(^A6^82)(^88^87)(^B7=-1)(^B8=1)(^A7^89)(^B9=1)
+    (^A0=1)(^A5=1)]}
+
+@$${3{@
+< <(a=c)> // (f=iso-8859-1)
+  (C7=customSortCol)(C8=imageSize)(C9=sender_name)>
+<(99=1|MetaMask Fraud Prevention <1pvynkdb@urgent-security.net>)>
+[1:^80(^C9^99)]
+@$$}3}@
+
+@$${5{@
+{-1:^C4 {(k^C5:c)(s=9)} }
+@$$}5}@
+
+@$${7{@
+<(9A=1738129241)>[1:^9E(^B6^9A)]
+@$$}7}@
+
+@$${8{@
+@$$}8}@
+
+@$${9{@
+<(9B=1738129270)>[1:^9E(^B6^9B)]
+@$$}9}@
+
+@$${A{@
+@$$}A}@

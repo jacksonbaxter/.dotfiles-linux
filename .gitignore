@@ -1,0 +1,9 @@
+cef_user_data/
+dconf/
+fcitx/
+fcitx5/
+ibus/
+libaccounts-glib/
+Mullvad VPN/
+Signal/
+.config/tidal_dl_ng/token.json
