@@ -1,5 +1,6 @@
 // <!-- <mdb:mork:z v="1.4"/> -->
 < <(a=c)> // (f=iso-8859-1)
+  (B8=MRUTime)(B9=sortColumns)(BA=customSortCol)
   (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
   (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
   (8A=label)(8B=numLines)(8C=ccList)(8D=bccList)(8E=msgThreadId)
@@ -14,17 +15,11 @@
   (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
   (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
   (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
-  (AD=fixedBadRefThreading)(AE=onlineName)(AF=folderName)>
-{1:^80 {(k^96:c)(s=9)} }
-{FFFFFFFD:^99 {(k^98:c)(s=9)} }
+  (AD=fixedBadRefThreading)(AE=onlineName)(AF=folderName)
+  (B0=columnStates)(B1=sortType)(B2=sortOrder)(B3=viewFlags)(B4=viewType)
+  (B5=applyIncomingFilters)(B6=highestModSeq)(B7=highestRecordedUID)>
 
-<(80=1)(81=0)(82=Sent)>
+<(80=1)(81=0)(82=Sent)(84=204)(85=1739121901)(86=12)(87=$121)>
 {1:^9E {(k^9F:c)(s=9u)} 
-  [1(^AB=1)(^AC=0)(^AD=1)(^AE^82)]}
-
-@$${1{@
-<(83=200)>[1:^9E(^88^83)]
-@$$}1}@
-
-@$${2{@
-@$$}2}@
+  [1(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^84)(^B8^85)(^B1=12)(^B2=1)(^B3=1)
+    (^B4=0)(^B9^87)]}

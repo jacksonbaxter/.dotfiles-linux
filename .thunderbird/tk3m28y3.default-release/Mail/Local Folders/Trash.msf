@@ -14,38 +14,14 @@
   (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
   (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
   (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
-  (AD=fixedBadRefThreading)(AE=folderName)>
-{1:^80 {(k^96:c)(s=9)} }
-{FFFFFFFD:^99 {(k^98:c)(s=9)} }
-
-<(80=1)(81=0)>
-{1:^9E {(k^9F:c)(s=9u)} 
-  [1(^AB=1)(^AC=0)(^AD=1)]}
-
-@$${1{@
-<(82=104)>[1:^9E(^88^82)]
-@$$}1}@
-
-@$${2{@
-< <(a=c)> // (f=iso-8859-1)
-  (AF=indexingPriority)>
-<(83=Trash)(84=66eb3d5c)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)
-    (^A2=0)(^A4^84)]
-@$$}2}@
-
-@$${3{@
-@$$}3}@
-
-@$${4{@
-@$$}4}@
-
-@$${6{@
-< <(a=c)> // (f=iso-8859-1)
+  (AD=fixedBadRefThreading)(AE=folderName)(AF=indexingPriority)
   (B0=useServerRetention)(B1=retainBy)(B2=daysToKeepHdrs)
   (B3=numHdrsToKeep)(B4=daysToKeepBodies)(B5=useServerDefaults)
   (B6=cleanupBodies)(B7=applyToFlaggedMessages)>
-[1:^9E(^B0=1)]
-@$$}6}@
 
-@$${7{@
-@$$}7}@
+<(80=1)(81=0)(82=104)(83=Trash)(84=66eb3d5c)>
+{1:^9E {(k^9F:c)(s=9u)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2=0)(^A4^84)(^B0=1)(^AE^83)]}
+
+@$${9{@
+@$$}9}@
